@@ -24,7 +24,7 @@ From Oct 2021- Oct 2022
 
 
 ```
-HR VENTURE Dec 2020 - Present
+HR VENTURE Dec 2020 - Jun 2021
 Trainee
 Few things that I have learned about
 Data : Data extraction, Scraping, Preprocessing, Visualizing, Modeling, Evaluating.
@@ -34,7 +34,15 @@ Tools & Framework : Pandas, Numpy, Seaborn, Scikit-learn, Beautiful soup, Seleni
 ```
 
 
-My working technology stack is `Java`, `Spring boot`, `Postgresql`, `DerbyDB`, `Python` `O'Auth`, `OpenID`
+Technology stack: 
+* Java
+* Spring boot
+* SQL
+* Postgresql
+* DerbyDB
+* Python
+* O'Auth
+* OpenID
 
 <!---
 mmrraju/mmrraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
