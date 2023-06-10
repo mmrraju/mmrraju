@@ -44,6 +44,13 @@ Technology stack:
 * O'Auth
 * OpenID
 
+Tools:
+* Linux
+* Git
+* VS code
+* Eclipse 
+* Netbeans
+
 <!---
 mmrraju/mmrraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
