@@ -1,40 +1,35 @@
-### About me
-Hi, I’m MD MOSTAFEJUR RAHMAN
+## About me
+Hi, this is Mostafejur Rahman,
 
-From a young age, I’ve always had a sense of motivation and passion driving me forward. Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal level. I have completed my graduation from Islamic Uinversity, Bangladesh. My major was ICT.
+From a young age, I’ve always had a sense of motivation and passion driving me forward. Whether it’s exploring unique opportunities, learning additional skills, or meeting new people, I bring these values to every experience throughout my life on a personal level. I have completed my graduation from Islamic Uinversity, Bangladesh. My major was Information and Communication Technology (ICT).
 
+
+## Currently 
+
+* Currently I'm working [Gluu Federation](https://github.com/GluuFederation)
 
 
 ## Work Experience
 
+QA & Support Engineer <br>
+[Gluu Federation](https://github.com/GluuFederation)<br>
+From: Oct 2022--present<br>
 
-```
-QA & Support Engineer 
-Gluu Inc.
-From: Oct 2022--present
-```
+--------------------------------------------------------------
+Software Engineer<br>
+Mangrove Systems Bangladesh<br>
+From Oct 2021- Oct 2022<br>
 
+---------------------------------------------------------------
 
+Data Science and Machine Learning Trainee<br>
+HR VENTURE<br>
+From Dec 2020 - Jun 2021<br>
 
-```
-Software Engineer
-Mangrove Systems Bangladesh
-From Oct 2021- Oct 2022
-```
-
-
-```
-HR VENTURE Dec 2020 - Jun 2021
-Trainee
-Few things that I have learned about
-Data : Data extraction, Scraping, Preprocessing, Visualizing, Modeling, Evaluating.
-Algorithms : Regression, SVM, KNN, DT, RF, KM clustering, Naive bayes, Deep Learning, ANN, CNN.
-Tools & Framework : Pandas, Numpy, Seaborn, Scikit-learn, Beautiful soup, Selenium, Sql, TensorFlow, keras.
-
-```
+---------------------------------------------------------------
 
 
-Technology stack: 
+## Technology stack 
 * Java
 * Spring boot
 * SQL
@@ -44,7 +39,7 @@ Technology stack:
 * O'Auth
 * OpenID
 
-Tools:
+## Tools
 * Linux
 * Git
 * VS code
@@ -54,4 +49,4 @@ Tools:
 <!---
 mmrraju/mmrraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
